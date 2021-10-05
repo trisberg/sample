@@ -1,7 +1,7 @@
 accelerator:
-  displayName: new-accelerator
-  description: Sample app
-  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  displayName: Sample App
+  description: A sample of a Sample app
+  iconUrl: https://pngimg.com/uploads/smiley/smiley_PNG60.png
   tags:
   - test
   - tanzu
