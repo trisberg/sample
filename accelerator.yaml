@@ -15,5 +15,11 @@ accelerator:
     display: true
     defaultValue: ""
 engine:
-  include:
-  - '**'
+  include: ['**']
+  chain:
+  - type: ReplaceText
+    substitutions:
+    - text: foo
+      with: "#projectName"
+    - text: sample
+      with: "#artifactId"
