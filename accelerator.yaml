@@ -7,7 +7,7 @@ accelerator:
   - tanzu
   options:
   - name: projectName
-    display: false
+    display: true
     defaultValue: "MyTest"
   - name: optionName
     label: Nice Label
