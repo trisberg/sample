@@ -10,7 +10,7 @@ accelerator:
     display: false
     defaultValue: "TestTest"
   - name: artifactId
-    display: true
+    display: false
     defaultValue: "MyTest"
   - name: optionName
     label: Nice Label
