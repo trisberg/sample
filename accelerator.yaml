@@ -6,10 +6,9 @@ accelerator:
   - test
   - tanzu
   options:
-  - name: projectName
-    label: Project Name
-    display: true
-    defaultValue: "my-test"
+  - name: artifactId
+    display: false
+    defaultValue: "MyTest"
   - name: optionName
     label: Nice Label
     display: true
